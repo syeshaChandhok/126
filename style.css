@@ -1,0 +1,35 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    color: white;
+}
+.note{
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+}
+body{
+    background-image: url("hi");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.div_speed{
+    position: relative;
+
+}
+#speed101{
+    font-size: 20px;
+    margin: 15px;
+}
+.note2{
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+}
+canvas{
+    border-color:rgb(255, 255, 255) ;
+    border: 4px solid rgb(131, 133, 134);
+    box-shadow: 3px 3px 3px rgb(25, 25, 25);
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+}
